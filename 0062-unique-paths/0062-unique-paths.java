@@ -1,8 +1,6 @@
 class Solution {
     public int uniquePaths(int m, int n) {
         int[][] dp=new int[m][n];
-        System.out.println(m);
-        System.out.println(n);
         return noOfPaths(dp.length-1,dp[0].length-1,dp);
     }
     public int noOfPaths(int i,int j,int[][] dp){
