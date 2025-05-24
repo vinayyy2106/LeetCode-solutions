@@ -19,7 +19,7 @@ class Solution {
         if(dp[ind][buy][max]!=-1){
             return dp[ind][buy][max];
         }
-        int profit=Integer.MIN_VALUE;
+        int profit=0;
         if(buy==1){
             profit=Math.max((-1)*prices[ind] + maxProfit(prices,n,max,dp,0,ind+1),0+maxProfit(prices,n,max,dp,1,ind+1));
         }
