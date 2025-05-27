@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0062-unique-paths) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Combinatorics
 |  |
 | ------- |
