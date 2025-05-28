@@ -1,10 +1,19 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int[][] dp=new int[coins.length][amount+1];
-        for(int[] row:dp){
-            Arrays.fill(row,-1);
+        int n=coins.length;
+        for(int i=0;i<=amount;i++){
+            if(i%coins[0]==0)dp[0][i]=1;
         }
-        return noOfCombinations(coins.length-1,coins,dp,amount);
+        for(int i=1;i<n;i++){
+            for(int T=0;T<=amount;T++){
+                int notTaken=dp[i-1][T];
+                int taken=0;
+                if(coins[i]<=T)taken=dp[i][T-coins[i]];
+                dp[i][T]=taken+notTaken;
+            }
+        }
+        return dp[n-1][amount];
     }
     public int noOfCombinations(int i,int[] coins,int[][] dp,int amount){
         
