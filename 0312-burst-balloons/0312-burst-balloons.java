@@ -20,10 +20,6 @@ class Solution {
             }
         }
         return dp[1][n];
-        // for(int[] arr:dp){
-        //     Arrays.fill(arr,-1);
-        // }
-        // return maxValue(1,n,newArr,dp);
     }
     public int maxValue(int i,int j,int[] newArr,int[][] dp){
         if(i>j)return 0;
