@@ -1,7 +1,8 @@
 class Solution {
     public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
         List<List<Integer>> list=new ArrayList<>();
-        for(int i=0;i<profit.length;i++){
+        int n=profit.length;
+        for(int i=0;i<n;i++){
             List<Integer> up=new ArrayList<>();
             up.add(startTime[i]);
             up.add(endTime[i]);
@@ -9,18 +10,26 @@ class Solution {
             list.add(up);
         }
         list.sort((a, b) -> Integer.compare(a.get(0), b.get(0)));
-        int[] dp=new int[profit.length+1];
-        Arrays.fill(dp,-1);
-        return maxProfit(0,dp,list,profit.length);//startindex,prevEndTime,dp,list,n
+        int[] dp=new int[n+1];
+        // Arrays.fill(dp,-1);
+        // return maxProfit(0,dp,list,n);//startindex,prevEndTime,dp,list,n
+        dp[n]=0;
+        for(int i=n-1;i>=0;i--){
+            int notTake=0+dp[i+1];
+            int next = findNext(list, list.get(i).get(1)); // Find next index
+            int take = list.get(i).get(2) + dp[next];
+            dp[i]=Math.max(take,notTake);
+        }
+        return dp[0];
     }
     public int maxProfit(int i,int[] dp,List<List<Integer>> list,int n){
-        if(i>=n)return 0;
-        if(dp[i]!=-1)return dp[i];
-        int notTake=0+maxProfit(i+1,dp,list,n);
+        //regular take we write
         // int take=0;
         // if(list.get(i).get(0)>=j){}
         //     take=list.get(i).get(2)+maxProfit(i+1,list.get(i).get(1),dp,list,n);
-
+        if(i>=n)return 0;
+        if(dp[i]!=-1)return dp[i];
+        int notTake=0+maxProfit(i+1,dp,list,n);
          int next = findNext(list, list.get(i).get(1)); // Find next index
         int take = list.get(i).get(2) + maxProfit(next, dp,list, n);
         return dp[i]=Math.max(take,notTake);
