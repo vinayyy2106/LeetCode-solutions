@@ -7,7 +7,7 @@ class Solution {
             int min=Integer.MAX_VALUE;
             for(int k=i;k<n;k++){
                 if(isPalindrome(i,k,s)){
-                    int cost=1+minCount(k+1,n,dp,s);
+                    int cost=1+dp[k+1];
                     min=Math.min(cost,min);
                 }
             }
