@@ -39,11 +39,8 @@ class Trie {
     }
 }
 class Node{
-    Node[] links;
+    Node[] links=new Node[26];
     boolean flag=false;
-    public Node(){
-        links=new Node[26];
-    }
     public boolean containsKey(char ch){
         return links[ch-'a']!=null;
     }
