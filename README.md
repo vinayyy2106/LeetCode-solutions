@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0518-coin-change-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 ## Matrix
@@ -150,4 +152,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
