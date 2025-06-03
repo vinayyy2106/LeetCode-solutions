@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
