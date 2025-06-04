@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -115,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
