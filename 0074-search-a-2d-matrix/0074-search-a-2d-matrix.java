@@ -7,12 +7,29 @@ class Solution {
                 continue;
             }else{
                 for(int j=0;j<n;j++){
-                    if(matrix[i][j]==target){
-                        return true;
-                    }
+                    
+                    if(search(matrix[i],target))return true;
+                    
                 }
             }
             
+        }
+        return false;
+    }
+     public boolean search(int[] nums, int target) {
+        int start=0;
+        int end=nums.length-1;
+        while(start<=end){
+            int mid=start+(end-start)/2;
+            if(nums[mid]>target){
+                end=mid-1;
+            }
+            else if(nums[mid]<target){
+                start=mid+1;
+            }
+            else{
+                return true;
+            }
         }
         return false;
     }
