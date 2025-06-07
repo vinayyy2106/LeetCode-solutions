@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
