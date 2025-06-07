@@ -25,7 +25,7 @@ class Solution {
                 count2--;
             }
         }
-        int c= (int) n/3;
+        int c=(int)n/3;
         int ec1=0;
         int ec2=0;
         List<Integer> list=new ArrayList<>();
@@ -36,7 +36,7 @@ class Solution {
     }
     if(ec1>c)list.add(ele1);
     if(ec2>c)list.add(ele2);
-    Collections.sort(list);
+    // Collections.sort(list);
     return list;
     }
     
