@@ -23,10 +23,12 @@ class Solution {
         h=head;
         ListNode dummy=new ListNode(-1); 
         ListNode prev=dummy; 
+        ListNode pres=dummy;
+        ListNode nex=dummy;
         prev.next=head; 
         while(len>=k){
-            ListNode pres =prev.next;
-            ListNode nex=pres.next;
+            pres =prev.next;
+            nex=pres.next;
             for(int i=1;i<k;i++){
                 pres.next=nex.next;
                 nex.next=prev.next;
