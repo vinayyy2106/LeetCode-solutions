@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0198-house-robber) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0494-target-sum) |
 ## String
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
