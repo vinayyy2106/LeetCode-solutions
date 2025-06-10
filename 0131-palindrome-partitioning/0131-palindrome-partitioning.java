@@ -8,6 +8,7 @@ class Solution {
     public void partitionsList(int ind,String s,List<List<String>> lists,List<String> list){
         if(ind==s.length()){
             lists.add(new ArrayList<>(list));
+            return;
         }
         for(int i=ind;i<s.length();i++){
             if(isPalindrome(s,ind,i)){
