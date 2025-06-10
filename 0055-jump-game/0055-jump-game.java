@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<n;i++){
             if(i>marked)return false;
             marked=Math.max(marked,nums[i]+i);
-            if(marked>n)return true;
+            // if(marked>n)return true;
         }
         return true;
     }
