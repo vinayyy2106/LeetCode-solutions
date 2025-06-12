@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
