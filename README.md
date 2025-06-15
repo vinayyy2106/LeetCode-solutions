@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0048-rotate-image) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0051-n-queens) |
