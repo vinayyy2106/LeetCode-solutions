@@ -26,9 +26,10 @@ class Solution {
                 temp++;
             }
         }
-        if (temp == 3 && Math.abs(res[row][2] - res[row][0]) > k) {
-        return new int[0][];
-    }
+        //checking the last grp
+        if (Math.abs(res[row][2] - res[row][0]) > k) {
+            return new int[0][];
+        }
         return res;
     }
 }
