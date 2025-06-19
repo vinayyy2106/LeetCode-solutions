@@ -21,7 +21,7 @@ class Solution {
                     continue;
                 }else{
                     val++;
-                    li.remove(li.size()-1);
+                    // li.remove(li.size()-1);
                     li=new ArrayList<>();
                 }
                 
