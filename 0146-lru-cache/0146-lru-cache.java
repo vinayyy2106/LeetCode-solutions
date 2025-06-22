@@ -1,8 +1,8 @@
 class LRUCache {
     Map<Integer,Node> mp=new HashMap<>();
     int capacity;
-    Node head=new Node(0,-1);
-    Node tail=new Node(0,-1);
+    Node head=new Node(0,0);
+    Node tail=new Node(0,0);
     public LRUCache(int capacity) {
         this.capacity=capacity;
         head.next=tail;
