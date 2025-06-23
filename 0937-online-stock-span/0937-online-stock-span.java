@@ -7,7 +7,7 @@ class StockSpanner {
     
     public int next(int price) {
         ind+=1;
-        while(!st.isEmpty() && st.peek().price<=price){
+        while(st.size()>0 && st.peek().price<=price){
             st.pop();
         }
         int ans=ind-(st.isEmpty()? -1 : st.peek().index);
