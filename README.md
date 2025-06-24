@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0062-unique-paths) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
