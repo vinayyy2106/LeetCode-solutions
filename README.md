@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
