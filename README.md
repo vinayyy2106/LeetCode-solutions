@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
