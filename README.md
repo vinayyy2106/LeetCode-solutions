@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2294-minimum-time-to-complete-trips](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2294-minimum-time-to-complete-trips](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2294-minimum-time-to-complete-trips) |
 ## Design
 |  |
 | ------- |
