@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Matrix
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Recursion
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Doubly-Linked List
 |  |
 | ------- |
