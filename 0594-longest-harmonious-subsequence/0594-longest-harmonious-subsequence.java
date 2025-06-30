@@ -8,7 +8,7 @@ class Solution {
             if(nums[j]-nums[i]==1){
                 maxLen=Math.max(j-i+1,maxLen);
                  j++;
-           }else if(nums[j]-nums[i]<=0){                
+           }else if(nums[j]-nums[i]==0){                
                 j++;
             }else{
                 i++;
