@@ -13,8 +13,6 @@ class Solution {
                 count[i]--;
             }
             i++;
-        }
-        
-        
+        }   
     }
 }
