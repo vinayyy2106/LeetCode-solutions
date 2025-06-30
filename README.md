@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0890-lemonade-change) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Binary Indexed Tree
 |  |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Linked List
 |  |
