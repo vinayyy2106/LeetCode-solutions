@@ -1,7 +1,7 @@
 class Solution {
     public char kthCharacter(int k) {
         String word="a";
-        while(word.length()<=k){
+        while(word.length()<k){
             char[] arr=word.toCharArray();
             StringBuilder changed=new StringBuilder("");
             for(char ch:arr){
