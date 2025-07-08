@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3617-find-the-original-typed-string-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Binary Indexed Tree
 |  |
