@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Sliding Window
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -535,5 +538,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
