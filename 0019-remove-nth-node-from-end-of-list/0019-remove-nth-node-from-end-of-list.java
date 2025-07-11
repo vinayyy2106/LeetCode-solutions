@@ -24,7 +24,6 @@ class Solution {
         if(n==i){
             return head.next;
         }
-        int count=1;
         int len=i-n;
         while(len>1){
             temp2=temp2.next;
