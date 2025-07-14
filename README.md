@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [1559-cherry-pickup-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0312-burst-balloons) |
