@@ -3,8 +3,17 @@ class Solution {
         if(n==1)return 1;
         if(n==2)return 2;
         int[] dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return helper(n,dp);
+        // Arrays.fill(dp,-1);
+        // return helper(n,dp);
+        dp[0]=0;//base case
+        for(int i=1;i<=n;i++){
+            int min=Integer.MAX_VALUE;
+            for(int j=1;j*j<=i;j++){
+                min=Math.min(min,1+dp[i-j*j]);
+            }
+            dp[i]=min;
+        }
+        return dp[n];
     }
     public int helper(int n,int[] dp){
         if(n==0){
