@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1170-shortest-common-supersequence) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
