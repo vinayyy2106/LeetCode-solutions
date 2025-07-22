@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
+| [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Linked List
 |  |
