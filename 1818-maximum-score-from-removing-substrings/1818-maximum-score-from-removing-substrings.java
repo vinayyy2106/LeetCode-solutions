@@ -1,54 +1,38 @@
 class Solution {
-    private int res=0;
+    
     public int maximumGain(String s, int x, int y) { 
-        if(x<y){
-            String st=helper1(s,y);
-            String st1=helper2(st,x);
-        }else{
-            String st=helper2(s,x);
-            String st1=helper1(st,y);
+        if (x > y) {
+            Result r1 = removePattern(s, 'a', 'b', x); 
+            Result r2 = removePattern(r1.str, 'b', 'a', y);
+            return r1.score+r2.score;
+        } else {
+            Result r1 = removePattern(s, 'b', 'a', y); 
+            Result r2 = removePattern(r1.str, 'a', 'b', x);
+            return r1.score+r2.score;
         }
+    }
+    public Result removePattern(String s,char a,char b,int val){
+        StringBuilder str=new StringBuilder();
+        int total=0;
+        for(char ch:s.toCharArray()){
+            int len=str.length();
+            if(len>0 && str.charAt(len-1)==a && ch==b){
+                total+=val;
+                str.deleteCharAt(len-1);
+            }else{
+                str.append(ch);
+            }
+        }
+        Result res=new Result(str.toString(),total);
         return res;
     }
-    public String helper1(String s,int y){
-        Stack<Character> st=new Stack<>();
-        for(char ch:s.toCharArray()){
-            if(st.isEmpty()){
-                st.push(ch);
-                continue;
-            }
-            if(ch=='a' && st.peek()=='b'){
-                res+=y;
-                st.pop();
-                continue;
-            }
-            
-            st.push(ch);
-        }
-        StringBuilder str=new StringBuilder();
-        while(!st.isEmpty()){
-            str.insert(0,st.pop());
-        }
-        return str.toString();
-    }
-    public String helper2(String s,int x){
-        Stack<Character> st=new Stack<>();
-        for(char ch:s.toCharArray()){
-            if(st.isEmpty()){
-                st.push(ch);
-                continue;
-            }
-            if(ch=='b' && st.peek()=='a'){
-                res+=x;
-                st.pop();
-                continue;
-            }
-            st.push(ch);
-        }
-        StringBuilder str=new StringBuilder();
-        while(!st.isEmpty()){
-            str.insert(0,st.pop());
-        }
-        return str.toString();
-    }
 }
+ class Result {
+        String str;
+        int score;
+
+        Result(String str, int score) {
+            this.str = str;
+            this.score = score;
+        }
+    }
