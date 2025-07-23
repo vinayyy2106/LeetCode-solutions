@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0739-daily-temperatures) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
