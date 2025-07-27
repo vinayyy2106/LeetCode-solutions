@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0213-house-robber-ii) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -690,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
