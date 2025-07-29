@@ -16,15 +16,6 @@ class Solution {
             }
             res[i]=endIndex-i+1;
         }
-        return res;
-        
-    }
-    public void helper(int i,int n,int xor,int[] nums,int val,List<Integer> list,int ele){
-        if(i==n){
-            if(val==xor)list.add(ele);
-            return;
-        }
-        helper(i+1,n,xor,nums,val|nums[i],list,ele+1);
-        helper(i+1,n,xor,nums,val,list,ele);
-    }
+        return res;   
+    } 
 }
