@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
