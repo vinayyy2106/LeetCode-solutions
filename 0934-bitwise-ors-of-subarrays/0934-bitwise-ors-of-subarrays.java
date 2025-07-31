@@ -5,12 +5,13 @@ class Solution {
         HashSet<Integer> curr=new HashSet<>();
         HashSet<Integer> result=new HashSet<>();
         for(int i=0;i<n;i++){
+            curr.add(arr[i]);
             for(int x:prev){
                 curr.add(arr[i]|x);
                 result.add(arr[i]|x);
             }
-            curr.add(arr[i]);
-            result.add(arr[i]);
+            
+            result.addAll(curr);
             prev=new HashSet<>(curr);
             curr.clear();
         }
