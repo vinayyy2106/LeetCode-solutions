@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0937-online-stock-span) |
