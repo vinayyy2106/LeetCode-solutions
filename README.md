@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0931-maximum-frequency-stack](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [0940-fruit-into-baskets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
