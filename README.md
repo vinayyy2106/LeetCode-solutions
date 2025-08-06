@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
+| [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Union Find
 |  |
 | ------- |
