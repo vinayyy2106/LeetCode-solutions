@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0332-reconstruct-itinerary](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph
