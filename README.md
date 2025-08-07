@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [0860-design-circular-queue](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0860-design-circular-queue) |
 | [0876-hand-of-straights](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0883-car-fleet) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [1559-cherry-pickup-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
+| [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
