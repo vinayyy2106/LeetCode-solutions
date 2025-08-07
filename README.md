@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0860-design-circular-queue](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0931-maximum-frequency-stack) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0547-number-of-provinces) |
@@ -749,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
