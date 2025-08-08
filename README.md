@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
+| [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
