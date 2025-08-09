@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
