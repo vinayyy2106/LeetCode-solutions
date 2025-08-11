@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2689-rearranging-fruits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2689-rearranging-fruits) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2529-range-product-queries-of-powers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
