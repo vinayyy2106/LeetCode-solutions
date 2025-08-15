@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Bit Manipulation
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
