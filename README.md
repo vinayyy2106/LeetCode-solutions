@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0930-all-possible-full-binary-trees) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
