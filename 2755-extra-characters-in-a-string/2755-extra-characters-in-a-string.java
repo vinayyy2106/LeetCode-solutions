@@ -2,8 +2,8 @@ class Solution {
     public int minExtraChar(String s, String[] dictionary) {
         int[] dp=new int[51];
         Arrays.fill(dp,-1);
-        Set<String> set=new HashSet<>();
-        for(String str:dictionary)set.add(str);
+        Set<String> set = new HashSet<>(Arrays.asList(dictionary));
+        // for(String str:dictionary)set.add(str);
         return helper(s,set,s.length(),0,dp);
     }
     public int helper(String s, Set<String> set,int n,int i,int[] dp){
