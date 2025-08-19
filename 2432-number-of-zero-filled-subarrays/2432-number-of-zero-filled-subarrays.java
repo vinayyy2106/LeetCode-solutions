@@ -11,10 +11,6 @@ class Solution {
             zeroArr[i]=zeroArr[i-1]+1;
             count+=zeroArr[i];
         }
-        
-        // for(long num:zeroArr){
-        //     count+=num;
-        // }
         return count;
     }
 }
