@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
 | ------- |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0930-all-possible-full-binary-trees) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Brainteaser
 |  |
 | ------- |
