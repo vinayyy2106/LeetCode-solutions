@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
