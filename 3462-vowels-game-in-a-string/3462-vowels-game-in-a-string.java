@@ -3,14 +3,10 @@ class Solution {
         int count=0;
         for(char ch:s.toCharArray()){
             if(isVowel(ch)){
-                count++;
+                return true;//for even,odd nd not zero
             }
         }
-        if(count==0){
-            return false;
-        }else{
-            return true;//for even,odd nd not zero
-        }
+        return false;//for zero vowels
     }
     public boolean isVowel(char ch){
         if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
