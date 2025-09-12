@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3830-find-closest-person) |
 ## Combinatorics
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Recursion
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -957,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
 | ------- |
