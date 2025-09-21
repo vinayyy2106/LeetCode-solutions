@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2442-number-of-arithmetic-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
 | [3797-design-spreadsheet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3797-design-spreadsheet) |
 ## Trie
 |  |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0931-maximum-frequency-stack) |
+| [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Union Find
 |  |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
+| [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
