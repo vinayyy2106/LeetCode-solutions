@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
