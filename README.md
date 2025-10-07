@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [2294-minimum-time-to-complete-trips](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
