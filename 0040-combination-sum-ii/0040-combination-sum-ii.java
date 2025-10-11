@@ -1,24 +1,25 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-         List<List<Integer>> ans=new ArrayList<>();
-         Arrays.sort(candidates);
-        returnSol(0,candidates,target,ans,new ArrayList<Integer>());
-        return ans;
+        Arrays.sort(candidates);
+        List<List<Integer>> li=new ArrayList<>();
+        recursion(li,new ArrayList<>(),target,0,candidates);
+        return li;
     }
-    static void returnSol(int index,int[] c,int target,List<List<Integer>> ans,ArrayList<Integer> listToBeAdded){
-            if(index==c.length){
+    public void recursion(List<List<Integer>> li,List<Integer> temp,int target,int i,int[] candidates){
+        if(i==candidates.length){
             if(target==0){
-                ans.add(new ArrayList<>(listToBeAdded));
+                li.add(new ArrayList(temp));
             }
             return;
         }
-        if(c[index]<=target){
-            listToBeAdded.add(c[index]);
-            returnSol(index+1,c,target-c[index],ans,listToBeAdded);
-            listToBeAdded.remove(listToBeAdded.size()-1);
+        
+        if(candidates[i]<=target){
+            temp.add(candidates[i]);
+            recursion(li,temp,target-candidates[i],i+1,candidates);
+            temp.remove(temp.size()-1);
         }
-        int newindex=index+1;
-        while(newindex<c.length && c[newindex]==c[index])newindex++;
-        returnSol(newindex,c,target,ans,listToBeAdded);
+        int numIndex=i+1;
+        while(numIndex<candidates.length && candidates[numIndex]==candidates[i])numIndex++;
+        recursion(li,temp,target,numIndex,candidates);
     }
 }
