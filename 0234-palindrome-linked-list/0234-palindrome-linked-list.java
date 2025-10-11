@@ -18,16 +18,17 @@ class Solution {
         ListNode reReversal=secondHead;
         while(head!=null && secondHead!=null){
             if(head.val!=secondHead.val){
-                break;
+                // break;
+                return false;
             }
             head=head.next;
             secondHead=secondHead.next;
         }
-        reverseList(reReversal);
-        if(secondHead==null){
-            return true;
-        }
-        return false;
+        // reverseList(reReversal);
+        // if(secondHead==null){
+        //     return true;
+        // }
+        return true;
     }
     static ListNode middleNode(ListNode head) {
         ListNode slow=head;
