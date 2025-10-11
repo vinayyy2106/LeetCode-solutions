@@ -1,23 +1,22 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> finalList=new ArrayList<>();
-        findFullList(0,finalList,nums,nums.length);
-        return finalList;
+        List<List<Integer>> lists=new ArrayList<>();
+        recursion(nums,lists,0);
+        return lists;
     }
-    static void findFullList(int index,List<List<Integer>> finalList,int[] nums,int n){
-        // ArrayList<Integer> l1=new ArrayList<Integer>(list);
-        if(index==n){
-            List<Integer> s=new ArrayList<>();
-            for(int i=0;i<n;i++){
-                s.add(nums[i]);
+    public void recursion(int[] nums,List<List<Integer>> lists,int ind){
+        if(ind==nums.length){
+            List<Integer> li=new ArrayList<>();
+            for(int num:nums){
+                li.add(num);
             }
-            finalList.add(s);
+            lists.add(li);
             return;
         }
-        for(int i=index;i<n;i++){
-            swap(nums,i,index);
-            findFullList(index+1,finalList,nums,n);
-            swap(nums,i,index);
+        for(int i=ind;i<nums.length;i++){
+            swap(nums,i,ind);
+            recursion(nums,lists,ind+1);
+            swap(nums,i,ind);
         }
     }
     static void swap(int[] nums,int i,int j){
