@@ -1,7 +1,7 @@
 class Solution {
     public void rotate(int[][] matrix) {
         int n=matrix.length;
-        for(int i=0;i<n-1;i++){
+        for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 swap(i,j,i,matrix);
             }
@@ -10,7 +10,6 @@ class Solution {
             reverseArray(0,row.length-1,row);
         }
     }
-
     public void swap(int i,int j,int k,int[][] matrix){
         int temp=matrix[i][j];
         matrix[i][j]=matrix[j][k];
