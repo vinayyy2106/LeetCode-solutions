@@ -1,62 +1,49 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        if(n==1){
-            List<String> row=new ArrayList<>();
-            row.add("Q");
-            List<List<String>> result =new ArrayList<>();
-            result.add(row);
-            return result;
-        }else{
-            List<List<String>> result =new ArrayList<>();
-            char[][] board=new char[n][n];
-            for(int row=0;row<n;row++){
-                for(int col=0;col<n;col++){
-                    board[row][col]='.';
-                }
-            }
-            queenPlacing(n,board,0,result);//0 is row number
-            return result;
+        List<List<String>> lists=new ArrayList<>();
+        List<String> board=new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            board.add(".".repeat(n));
         }
+        helper(0,lists,board);
+        return lists;
     }
-    static void queenPlacing(int size,char[][] board,int row,List<List<String>> result){
-        if(row==size){
-            // List<List<String>> listOfLists = new ArrayList<>();
-            result.add(constructBoard(board));
+    public void helper(int row,List<List<String>> lists,List<String> board){
+        if(row==board.size()){
+            lists.add(new ArrayList(board));
             return;
         }
-        for(int col=0;col<size;col++){
-            if(isSafe(board,row,col)){
-                board[row][col]='Q';
-                queenPlacing(size,board,row+1,result);
-                board[row][col]='.';
+        for(int i=0;i<board.get(row).length();i++){
+            if(isPossible(row,i,board)){
+                char[] rowArr = board.get(row).toCharArray();
+                rowArr[i]='Q';
+                board.set(row, new String(rowArr));
+                helper(row+1,lists,board);
+                rowArr[i] = '.';
+                board.set(row, new String(rowArr));
             }
         }
     }
-    static Boolean isSafe(char[][] list,int r,int c){
-        for(int k=0;k<r;k++){
-            if(list[k][c]=='Q'){
-                return false;//checking vertically down
-            }
+    public boolean isPossible(int i,int j,List<String> board){
+        int r=i-1,c=j-1;
+        while(r>=0 && c>=0){
+            if(board.get(r).charAt(c)=='Q')return false;
+            r--;
+            c--;
         }
-        int maxLeft=Math.min(r,c);
-        for(int l=1;l<=maxLeft;l++){
-            if(list[r-l][c-l]=='Q'){
-                return false;//left diagonal
-            }
+        r=i-1;
+        c=j;
+        while(r>=0){
+            if(board.get(r).charAt(c)=='Q')return false;
+            r--;
         }
-        int maxRight=Math.min(r,list.length-c-1);
-        for(int m=1;m<=maxRight;m++){
-            if(list[r-m][c+m]=='Q'){
-                return false;//left diagonal
-            }
+        r=i-1;
+        c=j+1;
+        while(r>=0 && c < board.size()){
+            if(board.get(r).charAt(c)=='Q')return false;
+            r--;
+            c++;
         }
         return true;
-    }
-    static List<String> constructBoard(char[][] b){
-        List<String> paths=new ArrayList<>();
-        for(char[] a:b){
-            paths.add(new String(a));
-        }
-        return paths;
     }
 }
