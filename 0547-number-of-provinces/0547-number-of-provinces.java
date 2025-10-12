@@ -1,33 +1,34 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        ArrayList<ArrayList<Integer>> adjList=new ArrayList<ArrayList<Integer>>();
-        int l=isConnected.length;
-        for(int i=0;i<l;i++){
-            adjList.add(new ArrayList<>());
+        int n=isConnected.length;
+        List<List<Integer>> listOfLists=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            listOfLists.add(new ArrayList<>());
         }
-        for(int i=0;i<l;i++){
-            for(int j=0;j<l;j++){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
                 if(isConnected[i][j]==1 && i<j){
-                    adjList.get(i).add(j);
-                    adjList.get(j).add(i);
+                    listOfLists.get(i).add(j);
+                    listOfLists.get(j).add(i);
                 }
             }
         }
-        int[] vis=new int[l];
+        boolean[] vis=new boolean[n];
         int count=0;
-        for(int i=0;i<l;i++){
-            if(vis[i]!=1){
-                dfs(i,vis,adjList);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                dfs(i,listOfLists,vis);
                 count++;
             }
         }
         return count;
+
     }
-    private void dfs(int vertice,int[] visited,ArrayList<ArrayList<Integer>> adjList){
-        visited[vertice]=1;
-        for(Integer val:adjList.get(vertice)){
-            if(visited[val]!=1){
-                dfs(val,visited,adjList);
+    public void dfs(int i,List<List<Integer>> listOfLists,boolean[] vis){
+        vis[i]=true;
+        for(Integer val:listOfLists.get(i)){
+            if(!vis[val]){
+                dfs(val,listOfLists,vis);
             }
         }
     }
