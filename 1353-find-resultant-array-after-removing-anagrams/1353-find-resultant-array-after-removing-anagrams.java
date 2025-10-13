@@ -1,19 +1,27 @@
 class Solution {
     public List<String> removeAnagrams(String[] words) {
-        List<String> list=new ArrayList<>();
-        char[] prevArr=words[0].toCharArray();
-        Arrays.sort(prevArr);
-        String prev=new String(prevArr);
-        list.add(words[0]);
+        List<String> res=new ArrayList<>();
+        res.add(words[0]);
         for(int i=1;i<words.length;i++){
-            char[] charArray1=words[i].toCharArray();
-            Arrays.sort(charArray1);
-            String str1=new String(charArray1);
-            if(!str1.equals(prev)){
-                list.add(words[i]);
-                prev=str1;
+            if(isAnagram(words[i],words[i-1])){
+                continue;
+            }else{
+                res.add(words[i]);
             }
         }
-        return list;
+        return res;
+    }
+    public boolean isAnagram(String word1,String word2){
+        int[] freq=new int[26];
+        for(char ch:word1.toCharArray()){
+            freq[ch-'a']++;
+        }
+        for(char ch:word2.toCharArray()){
+            freq[ch-'a']--;
+        }
+        for(int fr:freq){
+            if(fr!=0)return false;
+        }
+        return true;
     }
 }
