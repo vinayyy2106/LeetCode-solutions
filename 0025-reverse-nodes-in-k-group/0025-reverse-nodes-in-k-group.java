@@ -10,35 +10,48 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-       if(head==null || k==1){
-            return head;
-        }
-        ListNode h=head;
-        ListNode t=head;
-        int len=0;
-        while(h!=null){
-            h=h.next;
-            len++;
-        }
-        h=head;
-        ListNode dummy=new ListNode(-1); 
-        ListNode prev=dummy; 
-        ListNode pres=dummy;
-        ListNode nex=dummy;
-        prev.next=head; 
-        while(len>=k){
-            pres =prev.next;
-            nex=pres.next;
-            for(int i=1;i<k;i++){
-                pres.next=nex.next;
-                nex.next=prev.next;
-                prev.next=nex;
-                nex=pres.next;
+        ListNode temp=head;
+        ListNode prevNode=null;
+        ListNode nextNode;
+        while(temp!=null){
+            ListNode kthNode=findKthNode(temp,k);
+            if(kthNode==null){
+                if(prevNode !=null){
+                    prevNode.next=temp;
+                }
+                break;
             }
-            prev=pres;
-            len-=k;
+            nextNode=kthNode.next;
+            kthNode.next=null;
+            ListNode reversedNode=reverseLinkedList(temp);
+            if(temp==head){
+                head=reversedNode;
+            }else{
+                prevNode.next=reversedNode;
+            }
+            prevNode=temp;
+            temp=nextNode;
         }
-        return dummy.next;
+        return head;
     }
-    
+    public ListNode findKthNode(ListNode temp,int k){
+        k-=1;
+        while(temp!=null && k>0){
+            k--;
+            temp=temp.next;
+        }
+        return temp;
+    }
+    public ListNode reverseLinkedList(ListNode temp){
+        ListNode prev=null;
+        ListNode curr=temp;
+        ListNode next;
+        while(curr!=null){
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
+        return prev;
+    }
 }
