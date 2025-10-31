@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3797-design-spreadsheet) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
