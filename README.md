@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2755-extra-characters-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0930-all-possible-full-binary-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0930-all-possible-full-binary-trees) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Brainteaser
 |  |
