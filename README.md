@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Indexed Tree
 |  |
