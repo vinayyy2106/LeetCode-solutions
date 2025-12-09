@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Indexed Tree
 |  |
