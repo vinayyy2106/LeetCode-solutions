@@ -9,6 +9,6 @@ class Solution {
             }
             result=(result * i) % MOD; // As answer was (n-1)! as at every palce we have the chance of having each element which comes after it in org. array..
         }
-        return (int) (result);
+        return (int) (result % MOD);
     }
 }
