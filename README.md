@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1006-vowel-spellchecker](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1170-shortest-common-supersequence) |
