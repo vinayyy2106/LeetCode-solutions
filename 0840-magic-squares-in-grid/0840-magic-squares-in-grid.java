@@ -2,6 +2,9 @@ class Solution {
     public int numMagicSquaresInside(int[][] grid) {
         int m=grid.length;
         int n=grid[0].length;
+        if (n < 3 || m < 3) {
+            return 0;
+        }
         int count=0;
         for(int i=0;i<m-2;i++){
             for(int j=0;j<n-2;j++){
