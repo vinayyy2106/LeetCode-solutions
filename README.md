@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2728-sum-in-a-matrix) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2755-extra-characters-in-a-string) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -1275,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0830-largest-triangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
