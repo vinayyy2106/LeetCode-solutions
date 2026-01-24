@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1895-largest-magic-square) |
 | [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0917-boats-to-save-people) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [2092-find-all-people-with-secret](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
