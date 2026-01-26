@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
+| [1200-minimum-absolute-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
