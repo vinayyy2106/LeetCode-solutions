@@ -3,13 +3,6 @@ class Solution {
         Arrays.sort(arr);
         int n=arr.length;
         List<List<Integer>> ans=new ArrayList<>();
-        if(n==2){
-            List<Integer> li=new ArrayList<>();
-            li.add(arr[0]);
-            li.add(arr[1]);
-            ans.add(li);
-            return ans;
-        }
         int diff=Integer.MAX_VALUE;
         for(int i=0;i<n-1;i++){
             diff=Math.min(arr[i+1]-arr[i],diff);
