@@ -1058,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
@@ -1266,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Iterator
 |  |
 | ------- |
@@ -1315,4 +1317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
