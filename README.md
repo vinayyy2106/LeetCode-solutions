@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
