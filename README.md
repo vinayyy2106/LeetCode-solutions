@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0473-matchsticks-to-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0486-predict-the-winner) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0621-task-scheduler) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0611-valid-triangle-number) |
