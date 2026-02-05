@@ -21,12 +21,11 @@ class LRUCache {
         return nd.val;
 
     }
-    
     public void put(int key, int value) {
         if(mp.containsKey(key)){
             remove(mp.get(key));
         }
-        if(mp.size()==capacity){
+        else if(mp.size()==capacity){
             remove(tail.prev);
         }
         insert(new Node(key,value));
