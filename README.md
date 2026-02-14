@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0826-soup-servings) |
 | [0930-all-possible-full-binary-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0930-all-possible-full-binary-trees) |
