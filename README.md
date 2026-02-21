@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
