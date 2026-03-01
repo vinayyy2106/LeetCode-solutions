@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1762-furthest-building-you-can-reach](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1762-furthest-building-you-can-reach) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
