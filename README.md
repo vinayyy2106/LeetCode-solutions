@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
