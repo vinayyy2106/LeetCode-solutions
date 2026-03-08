@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1962-single-threaded-cpu) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1980-find-unique-binary-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
