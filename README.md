@@ -1212,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1250,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1289,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -1326,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
