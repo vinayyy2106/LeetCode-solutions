@@ -11,7 +11,7 @@ class Solution {
             if(mid<end && nums[mid]>nums[mid+1])return nums[mid+1];
             if(mid>start && nums[mid]<nums[mid-1])return nums[mid];
             if(nums[start]<=nums[mid])start=mid+1;
-            if(nums[end]>=nums[mid])end=mid-1;
+            if(nums[end]>=nums[mid])end=mid;
         }
         return -1;
     }
