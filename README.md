@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1281,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1422,9 +1424,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0785-is-graph-bipartite) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
