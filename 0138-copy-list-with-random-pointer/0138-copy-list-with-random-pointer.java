@@ -15,7 +15,6 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-        //better approach is using hashmap to store copied nodes first nd then linking here I'm solving optimal approach
         Node temp=head;
         while(temp!=null){
             Node dummy=new Node(temp.val);
@@ -31,7 +30,6 @@ class Solution {
             }else{
                 copyNode.random=null;
             }
-            
             temp=temp.next.next;
         }
         temp=head;
