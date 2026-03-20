@@ -7,7 +7,7 @@ class Solution {
         int maxLen=0;
         int curr=-1;
         for(int num:set){
-            int count=0;
+            int count=1;
             if(!set.contains(num-1)){
                 count=1;
                 curr=num;
