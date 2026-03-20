@@ -14,35 +14,29 @@
  * }
  */
 class Solution {
-    Map<TreeNode, Integer> depth;
-    int max_depth;
     public TreeNode subtreeWithAllDeepest(TreeNode root) {
-        depth = new HashMap();
-        depth.put(null, -1);
-        dfs(root, null);
-        max_depth = -1;
-        for (Integer d: depth.values())
-            max_depth = Math.max(max_depth, d);
-
-        return answer(root);
+        Pair pair=helper(root);
+        return pair.node;
     }
+    public Pair helper(TreeNode root){
+        if(root==null)return new Pair(null,0);
+        Pair leftPair=helper(root.left);
+        Pair rightPair=helper(root.right);
 
-    public void dfs(TreeNode node, TreeNode parent) {
-        if (node != null) {
-            depth.put(node, depth.get(parent) + 1);
-            dfs(node.left, node);
-            dfs(node.right, node);
+        if(leftPair.depth==rightPair.depth){
+            return new Pair(root,leftPair.depth+1);
         }
+        if(leftPair.depth>rightPair.depth){
+            return new Pair(leftPair.node,leftPair.depth+1);
+        }
+        return new Pair(rightPair.node,rightPair.depth+1);
     }
-
-    public TreeNode answer(TreeNode node) {
-        if (node == null || depth.get(node) == max_depth)
-            return node;
-        TreeNode L = answer(node.left),
-                 R = answer(node.right);
-        if (L != null && R != null) return node;
-        if (L != null) return L;
-        if (R != null) return R;
-        return null;
+}
+class Pair{
+    TreeNode node;
+    int depth;
+    public Pair(TreeNode node,int depth){
+        this.node=node;
+        this.depth=depth;
     }
 }
