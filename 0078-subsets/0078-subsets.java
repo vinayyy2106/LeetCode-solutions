@@ -1,26 +1,17 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> li=new ArrayList<>();
-        if(nums.length==1){
-            li.add(new ArrayList<>());
-            List<Integer> r=new ArrayList<>();
-            r.add(nums[0]);
-            li.add(r);
-            return li;
-        }else{
-            recursion(li,new ArrayList<>(),0,nums);
-        }
+        helper(nums,li,0,new ArrayList<>());
         return li;
     }
-    public void recursion(List<List<Integer>> li,List<Integer> temp,int i,int[] nums){
+    public void helper(int[] nums,List<List<Integer>> li,int i,List<Integer> l){
         if(i==nums.length){
-            li.add(new ArrayList(temp));
+            li.add(new ArrayList<>(l));
             return;
         }
-        temp.add(nums[i]);
-        recursion(li,temp,i+1,nums);
-        temp.remove(temp.size()-1);
-        recursion(li,temp,i+1,nums);
-        
+        l.add(nums[i]);
+        helper(nums,li,i+1,l);
+        l.remove(l.size()-1);
+        helper(nums,li,i+1,l);
     }
 }
