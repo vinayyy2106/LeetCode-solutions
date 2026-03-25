@@ -22,13 +22,13 @@ class Solution {
     public void helper(TreeNode root,String str){
         if(root==null)return;
         if(root.left==null && root.right==null){
-            StringBuilder st=new StringBuilder(str).append((char)('a'+root.val)).reverse();
+            StringBuilder st = new StringBuilder((char)('a' + root.val) + str);
             if (s1.length() == 0 || s1.compareTo(st) > 0) {
                 s1 = st;
             }
             return;
         }
-        helper(root.left,str+(char)('a' + root.val));
-        helper(root.right,str+(char)('a' + root.val));
+        helper(root.left,(char)('a' + root.val)+str);
+        helper(root.right,(char)('a' + root.val)+str);
     }
 }
