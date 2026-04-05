@@ -3,13 +3,13 @@ class Solution {
         int i=0,j=0;
         for(char ch:moves.toCharArray()){
             if(ch=='U'){
-                i=i-1;
+                i--;
             }else if(ch=='R'){
-                j=j+1;
+                j++;
             }else if(ch=='L'){
-                j=j-1;
+                j--;
             }else{
-                i=i+1;
+                i++;
             }
         }
         if(i==0 && j==0)return true;
