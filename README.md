@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2755-extra-characters-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2887-sort-vowels-in-a-string) |
