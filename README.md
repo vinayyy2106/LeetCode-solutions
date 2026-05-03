@@ -811,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0756-pyramid-transition-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1006-vowel-spellchecker](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1006-vowel-spellchecker) |
@@ -1232,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0796-rotate-string) |
 ## Enumeration
 |  |
 | ------- |
