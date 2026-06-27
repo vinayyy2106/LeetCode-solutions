@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1043,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
@@ -1050,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
