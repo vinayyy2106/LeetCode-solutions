@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1340-jump-game-v) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
