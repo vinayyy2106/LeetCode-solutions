@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1127-last-stone-weight) |
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [0840-magic-squares-in-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [1260-shift-2d-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1231,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1642-water-bottles) |
