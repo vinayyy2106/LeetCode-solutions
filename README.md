@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
