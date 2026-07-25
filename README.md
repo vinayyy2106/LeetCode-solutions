@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3531-count-covered-buildings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Breadth-First Search
