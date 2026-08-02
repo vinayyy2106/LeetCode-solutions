@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0860-design-circular-queue) |
 | [0874-walking-robot-simulation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0883-car-fleet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0930-all-possible-full-binary-trees](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -1517,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
