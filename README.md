@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
@@ -1410,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2793-count-the-number-of-complete-components](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3863-power-grid-maintenance](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1542,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
