@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [0830-largest-triangle-area](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0860-design-circular-queue](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0860-design-circular-queue) |
 | [0874-walking-robot-simulation](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0874-walking-robot-simulation) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
+| [0835-image-overlap](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1301-number-of-paths-with-max-score) |
