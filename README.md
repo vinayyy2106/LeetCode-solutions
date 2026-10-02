@@ -1578,4 +1578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1140-stone-game-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
