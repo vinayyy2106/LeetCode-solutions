@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3531-count-covered-buildings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3606-coupon-code-validator) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3531-count-covered-buildings](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
