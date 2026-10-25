@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1129-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1306-jump-game-iii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0772-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [1254-number-of-closed-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1420,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1573,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Counting Sort
 |  |
