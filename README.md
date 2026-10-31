@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3665-twisted-mirror-path-count](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3731-find-missing-elements) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3665-twisted-mirror-path-count](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3797-design-spreadsheet) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3665-twisted-mirror-path-count](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/vinayyy2106/LeetCode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
